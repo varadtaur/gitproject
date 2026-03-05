@@ -1,1 +1,2 @@
 This message is written using Git
+Adding new message
